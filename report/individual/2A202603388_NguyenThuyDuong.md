@@ -9,9 +9,9 @@
 
 | Tệp | Trạng thái |
 | --- | --- |
-| [`day01_lab.ipynb`](day01_lab.ipynb) — notebook đã chạy, giữ output | Cần đính kèm khi nộp |
-| [`lab1_report.json`](lab1_report.json) — báo cáo tự sinh | Đã tạo thành công; cần đính kèm |
-| [`hand_calc.jpg`](hand_calc.jpg) — ảnh tính tay có các bước | Cần đính kèm khi nộp |
+| [`day01_lab.ipynb`](day01_lab.ipynb) — notebook đã chạy, giữ output | ✅ Đã đính kèm |
+| [`lab1_report.json`](lab1_report.json) — báo cáo tự sinh | ✅ Đã đính kèm |
+| [`hand_calc.jpg`](hand_calc.jpg) — ảnh tính tay có các bước | ✅ Đã đính kèm |
 
 **Kết quả kiểm tra cuối notebook:** 15/15 mục đạt; không thiếu dự đoán `predict(...)`. File `lab1_report.json` đã được tạo với SEED = 9306.
 
